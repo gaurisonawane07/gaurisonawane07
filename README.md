@@ -40,12 +40,14 @@ I have a strong interest in Data Structures and Algorithms, which helps me write
 
 ## 🎨 My Favorite Tools
 
-| Tools       | Description                          |
-|-------------|--------------------------------------|
-| ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) | JavaScript library for building user interfaces |
-| ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) | Utility-first CSS framework for rapid UI development |
-| ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) | JavaScript runtime for building server-side applications |
-| ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) | Version control system for tracking changes in code |
+| Tool       | Logo                                                                                              | Description                                                  |
+|------------|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
+| React      | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)      | JavaScript library for building user interfaces              |
+| Tailwind CSS | ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) | Utility-first CSS framework for rapid UI development         |
+| Node.js    | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) | JavaScript runtime for building server-side applications     |
+| Git        | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)           | Version control system for tracking changes in code         |
+| MongoDB    | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) | Document database for building scalable applications         |
+| Express    | ![Express](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white) | Fast, unopinionated, minimalist web framework for Node.js   |
 
 ---
 
