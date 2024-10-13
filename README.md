@@ -1,4 +1,4 @@
-# 🌟 Hi, I'm Gauri Sonawane! 👩‍💻
+# 🌟 Hi, I'm Gauri Sonawane! 
 
 ![wave](https://user-images.githubusercontent.com/59490008/168796821-5d3c1d65-df79-4275-a11f-5e4a7c855cd7.gif)
 
