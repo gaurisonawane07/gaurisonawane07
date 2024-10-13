@@ -13,7 +13,7 @@ I’m a **web developer** passionate about crafting **innovative solutions**. I 
 
 ## 📚 Data Structures & Algorithms (DSA)
 
-I have a strong interest in Data Structures and Algorithms, which helps me write efficient and optimized code. I regularly practice DSA problems to improve my problem-solving skills.
+I have a strong interest in Data Structures and Algorithms, which helps me write efficient and optimized code.
 
 - Check out my LeetCode profile: [LeetCode Profile](https://leetcode.com/u/gaurisonawane/)
 
