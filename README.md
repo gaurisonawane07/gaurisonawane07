@@ -23,7 +23,7 @@ I'm a passionate web developer focused on creating innovative solutions. I speci
 ## 👥 Followers & Commits
 
 - ![GitHub Followers](https://img.shields.io/github/followers/gaurisonawane07?style=social)
-- ![GitHub Commits](https://img.shields.io/github/commit-activity/y/gaurisonawane07/yourrepositoryname)
+- ![GitHub Commits](https://img.shields.io/github/commit-activity/y/gaurisonawane07/Exoplanet_Explore)
 
 ---
 
