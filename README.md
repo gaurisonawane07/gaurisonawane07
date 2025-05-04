@@ -3,10 +3,9 @@
 ![wave](https://user-images.githubusercontent.com/59490008/168796821-5d3c1d65-df79-4275-a11f-5e4a7c855cd7.gif)
 
 ## 🚀 About Me
+I'm a **Full Stack and Web3 Developer** driven by a passion for building **innovative and decentralized solutions**. My expertise lies in crafting dynamic user interfaces with **React** and **Next.js**, architecting robust backends using **Express.js**, and developing secure and scalable decentralized applications with **Solidity**, **Hardhat**, and **Viem**. With a strong foundation in **Data Structures and Algorithms**, I'm constantly seeking opportunities to learn and implement cutting-edge technologies to shape the future of the web.
 
-I’m a **web developer** passionate about crafting **innovative solutions**. I specialize in **React**, **Tailwind CSS**, and have a strong interest in **Data Structures and Algorithms**, always excited to learn and adopt new technologies!
-
-- 💬 Ask me about **React**, **CSS**, or anything tech-related!
+- 💬 Ask me about **Blockchain**, **DSA**, or anything tech-related!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gauri-sonawane-365657287/) | [Twitter](https://x.com/GauriSonaw2262)
 
 ---
