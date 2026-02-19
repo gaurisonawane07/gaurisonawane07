@@ -19,14 +19,12 @@ I have a strong interest in Data Structures and Algorithms, which helps me write
 ---
 
 ## 🌟 GitHub Stats
-
-![Gauri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gaurisonawane07&show_icons=true&theme=radical)
+![Gauri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gaurisonawane07&show_icons=true&theme=radical&count_private=true)
 
 ---
 
 ## 📊 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurisonawane07&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurisonawane07&layout=compact&theme=radical&hide_progress=false)
 
 ---
 
@@ -36,8 +34,6 @@ I have a strong interest in Data Structures and Algorithms, which helps me write
 - ![Profile Views](https://komarev.com/ghpvc/?username=gaurisonawane07&color=blue)
 
 ---
-
-## 🎨 My Favorite Tools
 
 ## 🎨 My Favorite Tools
 
