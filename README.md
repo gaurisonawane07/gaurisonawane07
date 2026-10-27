@@ -70,7 +70,6 @@ const gauri = {
   role: "Full Stack Developer",
   frontend: ["React", "Next.js", "Tailwind CSS"],
   backend: ["Node.js", "Express.js", "MongoDB"],
-  web3: ["Solidity", "Hardhat", "Viem"],
   strengths: ["Data Structures & Algorithms", "Problem Solving"],
   currentlyDoing: ["Data Structures & Algorithms", "DevOps"],
   funFact: "I debug smart contracts for fun 🔍",
@@ -80,10 +79,10 @@ const gauri = {
 
 I'm driven by a passion for building **innovative and scalable solutions**. I craft dynamic interfaces with **React** and **Next.js**, architect robust backends with **Express.js**, and develop secure, scalable dApps with **Solidity**, **Hardhat**, and **Viem**. My strong DSA foundation helps me write efficient, optimized code, and I'm currently diving deeper into **DSA** and **DevOps** while always learning new technologies to help shape the future of the web.
 
-- 🔭 Currently building: **[your current project]**
 - 🌱 Currently doing: **DSA & DevOps**
 - 💬 Ask me about: **Blockchain, DSA, or anything tech**
 - 🤝 Open to: **Collaborations, internships, and full-time roles**
+- 🌐 Portfolio: gauris.me
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/gauri-sonawane-365657287/) | [Twitter](https://x.com/GauriSonaw2262)
 
 ---
@@ -99,12 +98,6 @@ I'm driven by a passion for building **innovative and scalable solutions**. I cr
 **Backend & Database**
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="backend" />
-
-**Web3 & Blockchain**
-
-<img src="https://skillicons.dev/icons?i=solidity,hardhat" alt="web3" />
-<img src="https://img.shields.io/badge/-Viem-FFC517?style=flat-square&logoColor=black" alt="viem" />
-<img src="https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" alt="ethereum" />
 
 **Tools**
 
