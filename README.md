@@ -43,12 +43,12 @@ I have a strong interest in Data Structures and Algorithms, which helps me write
 | Express     | ![Express](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white) | Fast, unopinionated, minimalist web framework for Node.js   | -->
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=200&section=header&text=Gauri%20Sonawane&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%26%20Web3%20Developer&descAlignY=58&descSize=20" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=200&section=header&text=Gauri%20Sonawane&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=20" width="100%" alt="header" />
 
 <div align="center">
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Full+Stack+%26+Web3+Developer;Building+decentralized+solutions;React+%7C+Next.js+%7C+Express.js;Solidity+%7C+Hardhat+%7C+Viem;DSA+enthusiast+%F0%9F%A7%A0" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Express.js;Currently+learning+DSA+%26+DevOps;Building+scalable+web+apps+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -67,21 +67,21 @@ I have a strong interest in Data Structures and Algorithms, which helps me write
 
 ```js
 const gauri = {
-  role: "Full Stack & Web3 Developer",
+  role: "Full Stack Developer",
   frontend: ["React", "Next.js", "Tailwind CSS"],
   backend: ["Node.js", "Express.js", "MongoDB"],
   web3: ["Solidity", "Hardhat", "Viem"],
   strengths: ["Data Structures & Algorithms", "Problem Solving"],
-  currentlyLearning: ["Smart contract security", "Advanced DeFi patterns"],
+  currentlyDoing: ["Data Structures & Algorithms", "DevOps"],
   funFact: "I debug smart contracts for fun 🔍",
   askMeAbout: ["Blockchain", "DSA", "Anything tech"],
 };
 ```
 
-I'm driven by a passion for building **innovative and decentralized solutions**. I craft dynamic interfaces with **React** and **Next.js**, architect robust backends with **Express.js**, and develop secure, scalable dApps with **Solidity**, **Hardhat**, and **Viem**. My strong DSA foundation helps me write efficient, optimized code, and I'm always learning new technologies to help shape the future of the web.
+I'm driven by a passion for building **innovative and scalable solutions**. I craft dynamic interfaces with **React** and **Next.js**, architect robust backends with **Express.js**, and develop secure, scalable dApps with **Solidity**, **Hardhat**, and **Viem**. My strong DSA foundation helps me write efficient, optimized code, and I'm currently diving deeper into **DSA** and **DevOps** while always learning new technologies to help shape the future of the web.
 
 - 🔭 Currently building: **[your current project]**
-- 🌱 Currently learning: **Smart contract security & DeFi**
+- 🌱 Currently doing: **DSA & DevOps**
 - 💬 Ask me about: **Blockchain, DSA, or anything tech**
 - 🤝 Open to: **Collaborations, internships, and full-time roles**
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/gauri-sonawane-365657287/) | [Twitter](https://x.com/GauriSonaw2262)
@@ -111,6 +111,7 @@ I'm driven by a passion for building **innovative and decentralized solutions**.
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" alt="tools" />
 
 </div>
+
 ---
 
 ## 📊 GitHub Stats
@@ -140,10 +141,9 @@ I enjoy solving problems on LeetCode, which keeps my logic sharp and my code eff
 
 ---
 
-
 ## ✍️ Let's Collaborate!
 
-I'm always open to new ideas, open-source contributions, and collaborations. If you have a project in mind, want to talk Web3, or just want to chat about tech, reach out!
+I'm always open to new ideas, open-source contributions, and collaborations. If you have a project in mind or just want to chat about tech, reach out!
 
 <div align="center">
 
@@ -154,14 +154,3 @@ I'm always open to new ideas, open-source contributions, and collaborations. If 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E100FF,100:7F00FF&height=120&section=footer" width="100%" alt="footer" />
-
-
----
-
-## 🌍 Let's Collaborate!
-
-I’m always open to new ideas and collaborations. If you have a project in mind or just want to chat, feel free to reach out!
-
----
-
-![Thank You](https://user-images.githubusercontent.com/59490008/168797238-15a2a64e-37f2-4610-a25f-739be2e1d792.gif)
