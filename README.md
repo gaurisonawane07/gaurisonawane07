@@ -111,19 +111,6 @@ I'm driven by a passion for building **innovative and decentralized solutions**.
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" alt="tools" />
 
 </div>
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech Stack | Links |
-|---------|-------------|------------|-------|
-| **[Project 1 Name]** | One-line description of what it does and why it matters | `Solidity` `Hardhat` `Next.js` `Viem` | [Live](#) · [Code](#) |
-| **[Project 2 Name]** | One-line description of what it does and why it matters | `React` `Express` `MongoDB` | [Live](#) · [Code](#) |
-| **[Project 3 Name]** | One-line description of what it does and why it matters | `Next.js` `Tailwind` `Node.js` | [Live](#) · [Code](#) |
-
-> 💡 Replace the placeholders above with your real projects. You can also pin your 6 best repos on your GitHub profile.
-
 ---
 
 ## 📊 GitHub Stats
@@ -153,15 +140,6 @@ I enjoy solving problems on LeetCode, which keeps my logic sharp and my code eff
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=gaurisonawane07&theme=radical&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
 
 ## ✍️ Let's Collaborate!
 
