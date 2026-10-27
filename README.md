@@ -82,7 +82,7 @@ I'm driven by a passion for building **innovative and scalable solutions**. I cr
 - 🌱 Currently doing: **DSA & DevOps**
 - 💬 Ask me about: **Blockchain, DSA, or anything tech**
 - 🤝 Open to: **Collaborations, internships, and full-time roles**
-- 🌐 Portfolio: gauris.me
+- 🌐 Portfolio: [gauris.me](https://gauris.me)
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/gauri-sonawane-365657287/) | [Twitter](https://x.com/GauriSonaw2262)
 
 ---
